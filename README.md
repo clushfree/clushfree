@@ -10,10 +10,8 @@
 - I'm working on discord tools.
 
 # My skills
-<div id="badges">
-<img src="https://github.com/user-attachments/assets/17cd237b-7142-4994-bf45-9539ac89214c" alt="C++ Badge"/>
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 
