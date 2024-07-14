@@ -11,8 +11,8 @@
 
 # Languages
 <div>
-  <img src="https://github.com/user-attachments/assets/96c302d6-1bb8-402e-bd0f-08db3ed9209e" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/6143169b-6d82-4902-b56b-047494696c64" title="C++" alt="CPP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/c48ea3c6-ec6b-4cbe-8b54-68c2c458a78d" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/38580386-4495-43b3-9acc-fdb3e084b322" title="C++" alt="C++" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/user-attachments/assets/cf6636d1-112f-416d-8565-b46fa23fe16d" title="PY" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
