@@ -9,7 +9,7 @@
 # What i'm doing mainly?
 - I'm working on discord tools.
 
-# My skills
+# Languages
 <div>
   <img src="https://github.com/user-attachments/assets/74fabf99-6669-465e-bfea-6d0333b46971" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/cf6636d1-112f-416d-8565-b46fa23fe16d" title="PY" alt="Python" width="40" height="40"/>&nbsp;
