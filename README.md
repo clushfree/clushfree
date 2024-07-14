@@ -12,7 +12,7 @@
 # My skills
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="![image](https://github.com/user-attachments/assets/494be4b8-79ee-44ce-90f4-1cd70732790b)" alt="Cpp Badge"/>
+    <img src="![image](https://github.com/user-attachments/assets/42eaa0c4-ee6c-4529-96ad-08091c7c97e2))" alt="Cpp Badge"/>
   </a>
 
 ![image](https://github.com/user-attachments/assets/66dc3e3a-aa34-4494-a3df-8ef95e8ccf5d)
