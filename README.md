@@ -1,7 +1,7 @@
 
-
-![image](https://github.com/user-attachments/assets/44e1fd03-50be-4b79-99ac-6ca4517816e3)
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
 #Clush
