@@ -11,7 +11,7 @@
 
 # My skills
 <div id="badges">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://github.com/user-attachments/assets/17cd237b-7142-4994-bf45-9539ac89214c" alt="C++ Badge"/>
 </div>
 
 
