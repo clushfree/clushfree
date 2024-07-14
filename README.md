@@ -12,6 +12,8 @@
 # My skills
 <div id="badges">
 <img src="https://github.com/user-attachments/assets/17cd237b-7142-4994-bf45-9539ac89214c" alt="C++ Badge"/>
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+
 </div>
 
 
