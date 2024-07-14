@@ -10,7 +10,9 @@
 - I'm working on discord tools.
 
 # My skills
-https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
+<div id="badges">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 
 
 ![image](https://github.com/user-attachments/assets/66dc3e3a-aa34-4494-a3df-8ef95e8ccf5d)
